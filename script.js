@@ -14,11 +14,12 @@ console.log(newArray[3][1]);
 let obj = {
     a: 1,
     b: 2,
-    c: 3
+    c: 3,
+    d: 4
 }
 
 console.log(obj);
 console.log(obj.a);
 console.log(obj["b"]);
 
-// Testing
+// Testingd
